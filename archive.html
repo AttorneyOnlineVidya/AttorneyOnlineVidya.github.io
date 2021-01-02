@@ -279,13 +279,27 @@
                 </div>
             </div>
 
-            <div class="jumbotron">
-                <div class="row mb-3">
-                    <h3><strong>2018/19 Case Archive</strong></h3>
-                </div>
+            <!-- TABLE UPDATER LINKS -->
+            <h2 class="text-center">
+                <!-- 2020/21 -->
+                <button id="2021" type="button" class="btn btn-primary btn-lg">2020/21</button>
 
+                <!-- 2018/19 -->
+                <button id="1819" type="button" class="btn btn-primary btn-lg">2018/19</button>
+
+                <!-- LEGACY -->
+                <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit"
+                    target="_blank">
+                    <button id="legacy" type="button" class="btn btn-dark btn-lg external">2015-18 Legacy</button>
+                </a>
+            </h2>
+            </br>
+
+            <div class="jumbotron">
+                <strong><b>
+                        <h2 id="yearsID">Loading</h2>
+                    </b></strong><br />
                 <!-- 2019 DataTables table, data added via script -->
-                <p>
                 <table id="archive" class="display" style="width:100%">
                     <thead>
                         <tr>
@@ -302,22 +316,10 @@
                     </tfoot>
 
                 </table>
-                </p>
+
                 </br>
-                <hr>
-
-
-                <!-- Legacy Archive link -->
-                <div class="row sm-12">
-                    <h3>
-                        <strong>
-                            <a href="https://docs.google.com/document/d/1Oke4MAKv0uMNYoRh2IIgR-3wdSRSNAxhrON52rwtQgI/edit?usp=sharing"
-                                target="_blank">Legacy Archive (2015-2018)</a>
-                        </strong>
-                    </h3>
-                </div>
-                <p>This document contains a collection of AOV cases played from the beginning of the server until 2018.
-                </p>
+                <h2>Case Description</h2>
+                <p id="caseDesc">Click a table row to see a short description of that case.</p>
             </div>
         </div>
     </main>
@@ -400,7 +402,17 @@
         //DataTables init
         $(document).ready(function () {
             var table = $('#archive').DataTable({
-                "ajax": 'caseArchive.txt'
+                "ajax": 'caseArchive2021.txt'
+            });
+
+            $('#archive tbody').on('click', 'tr', function () {
+                var data = table.row(this).data();
+                if (data[3]) {
+                    document.getElementById("caseDesc").innerHTML = data[0] + "<br />" + data[3];
+                }
+                else {
+                    document.getElementById("caseDesc").innerHTML = data[0] + "<br />" + "No Description Provided";
+                }
             });
 
             //Alphabet search interface
@@ -432,6 +444,31 @@
             });
         });
 
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('#2021').addClass("btn-outline-primary");
+            document.getElementById("yearsID").innerHTML = "2020/21";
+        });
+
+        $('#2021').on('click', function () {
+            $('#archive').DataTable().ajax.url('caseArchive2021.txt').load();
+            $('#archive').DataTable().ajax.reload();
+
+            document.getElementById("yearsID").innerHTML = "2020/21";
+            $('#1819').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary");
+        });
+
+        $('#1819').on('click', function () {
+            $('#archive').DataTable().ajax.url('caseArchive1819.txt').load();
+            $('#archive').DataTable().ajax.reload();
+
+            document.getElementById("yearsID").innerHTML = "2018/19";
+            $('#2021').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary")
+        });
     </script>
 
 
