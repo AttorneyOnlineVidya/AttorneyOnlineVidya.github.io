@@ -329,6 +329,30 @@
       "Normal",
       "2020/12/31",
 	  "A student has been murdered by hit-and-run, but it's a reference to something, it's VERY anime, it takes place in a different time period and the mob is involved.<br />NEW YEAR'S DRINKING CASE."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1H2aMUfmZSfZkHC0tDMFqSkctGqeAKZpfebU8Wze-cgA/edit' target='_blank'>Turnabout (Lack of) Intelligence</a>",
+      "Normal",
+      "2021/09/20",
+	  "It’s someone’s birthday, and now it’s someone’s funeral!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1oF76Gwx1yJdc1A_mInYbfODTtwp3lr2NGH_JzTiuiCw/edit' target='_blank'>Turnabout Erupting Youth (Sukeban)</a>",
+      "AAI",
+      "2021/09/19",
+	  "A rivalry has been bubbling for a while between two colleges’ local gangs of Banchos and Sukebans,but we are nearing an eruption of violence when the leader of the all male college’s bancho gang is found dead by a member Otome Shugeki. Will this flurry of fist and violence finally erupt to its peak?! Find out this time on AOV!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1UQ-NqIA29OIRB0VJ4eKlAAa76A11mTIU7mDw3iP3EtQ/edit?usp=sharing' target='_blank'>Turnabout Blizzard</a>",
+      "Normal",
+      "2021/09/18",
+	  "Bobby Kotick was killed via a frozen watermelon knife.  Did NEET gamers commit the crime, or is there more jewery afoot in the Offices of Fucktivision?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1enGbQvf19NJT7fweeT16syR0XxWPULGwpdng4qIOUu0/edit#' target='_blank'>Turnabout Biggertop</a>",
+      "Normal",
+      "2021/09/04",
+	  "Inside the latest attraction to the Big Berry Circus, there lies another circus, the Little Berry Circus. Within that circus, a murder has been commited, by none other than the Ringmaster himself, Big Lawerence “Moe” Curls! Will the circus see an encore or is this lights out for the Big Berry Circus!?"
     ]
   ]
 }
