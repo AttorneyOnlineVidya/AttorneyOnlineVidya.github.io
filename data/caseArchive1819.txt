@@ -643,6 +643,12 @@
       "Normal",
       "2019/12/28",
 	  "'WHY WOUDL THEY DRINKN YOUR FITY YEAR OLD NUT'"
-    ]
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wvXDoY-PolJSmCSCokbwkc-s-o1hS3iTYhVvgfQvXbs/edit' target='_blank'>An Abominable Turnabout</a>",
+      "Normal",
+      "2019/01/14",
+	  "That binary case. You know the one."
+    ]	
   ]
 }
