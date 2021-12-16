@@ -353,6 +353,12 @@
       "Normal",
       "2021/09/04",
 	  "Inside the latest attraction to the Big Berry Circus, there lies another circus, the Little Berry Circus. Within that circus, a murder has been commited, by none other than the Ringmaster himself, Big Lawerence “Moe” Curls! Will the circus see an encore or is this lights out for the Big Berry Circus!?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1qUnT9F2j5U_SGwH1RGROaiK6_3awM6Cf5FD6mxiF9YE/edit' target='_blank'>Turnabout Bullying is Deadly</a>",
+      "Normal",
+      "2021/12/05",
+	  "It’s lunch break at Japanifornian High School! Everyone is having a good time… until a transgender girl murders two bullies in her class. Is there anyone who truly wants to defend her? Find out today on AOV!"
     ]
   ]
 }
