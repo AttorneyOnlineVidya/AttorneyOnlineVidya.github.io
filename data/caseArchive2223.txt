@@ -35,6 +35,60 @@
       "Normal",
       "2022/09/08",
 	  "A woman is furious at her twin sister for using her likeness without consent, so she obliterates her with a laser grill."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1pn_rm1duoxm_alpJ4v2bHSDp4OUDiDQblTPCfJdG_s0/edit#' target='_blank'>The Legendary Graveyard of Turnabouts</a>",
+      "Normal",
+      "2022/10/04",
+	  "Two military rivals, one of whom was thought to be dead, clash for the last time in a graveyard.<br />All the while, a mysterious man about whom no one knows anything is present to witness everything.<br />At the end of the night, the legendary soldier is the only one left standing, and is now suspected of murdering the other two…"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1STDmjPvGkzWO3vqDVd07ZZ1ltz5x03PGVgx5xkV0Azk/edit#' target='_blank'>A Forged Turnabout</a>",
+      "Normal",
+      "2022/09/04",
+	  "A blacksmith is being suspected for killing his main financial rival in a downtown part of Japanifornia.<br />The evidence currently points towards him but could the defense go out of their way and make them go scot-free? Or will the prosecution bring down the hammer of justice upon them?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/14x3w8ToXtfrYAxn_EdVgRjqBMQvVm2-7cRXL_PMqIgg/edit#' target='_blank'>Turnabout A Pastanigre 'n' A Bri’ish Put In A Laundromat…</a>",
+      "Normal",
+      "2022/10/11",
+	  "It’s Victorian England and one of the queen’s royal retainers has been found dead picking up the royal clothes from a local London laundromat. He was apparently shot by a spy from the rival nation of Greetaly. <br />Figure out the weird details in this case on AOV coming to an AOV near you yeah AOV! AOV…"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1y5sQin-6H4EuZ3Z6cyII4VwoPIt5RdWiFJQmWbqwBEo/edit#' target='_blank'>Turnabout Piss Balls</a>",
+      "Normal",
+      "2022/10/12",
+	  "On a cold snowy night at the skirts of Japanifornia, some important old guy is murdered in cold blood by none other than Apollo Justice, with the help of a nearby statue’s massive balls."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1H-m7vT1LBA83iqpRPooeAlpjB_HFbOq8tpYk1_4c-ik/edit#' target='_blank'>Turnabout Phoenix’s Birthday</a>",
+      "Normal",
+      "2022/10/13",
+	  "Apollo keeps bullying Phoenix, so Phoenix commits a murder during his own birthday party."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/11-hW3OLao9Q0fjCHNu2b7_wy_lmOXsU79a40GUehjEw/edit#' target='_blank'>Gregory Edgeworth Commits Tax Fraud</a>",
+      "Jury",
+      "2022/10/15",
+	  "Famed theory-crafter and defense attorney, Gregory Edgeworth, has found himself on the wrong side of the law. For years he had been evading his taxes but that was until veteran IRS agent John Steuerberater was put on the case..."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Ef9zojuQnzztPJD55KDLmEU6ADL0UB5yKkiyKxyUe_Y/edit#' target='_blank'>Turnabouts of a Groomed Didney Dolphin</a>",
+      "Jury",
+      "2022/10/22",
+	  "At the local sea world the star attraction for the last several months has been an up and coming anthropomorphic dolphin called T.J, who has recently been found dead and the suspect is none other than his handler. But what’s this? A dolphin grooming sex scandal has been uncovered in the police’s investigation…"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1phwjD_yysKgMgejSOrQbIHdJoD83fT-L_-t7x4MCfeA/edit#' target='_blank'>All Eyes on Mental Turnabouts</a>",
+      "Normal",
+      "2022/10/23",
+	  "This is the gruesome story of Vera Misham, a lonely child with a mental disorder. All of her fear, evilness, and insanity spills out on a bloody night when she commits the dreadful murder of her own mother, Azura Summers, in one of Japanifornia's worst tragedies in its history."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1l4mtRm7PfWVO6VhAG-F-WsQgqZePgDjELiPw0QGdH84/edit#' target='_blank'>A Turnabout That Gives Love a Bad Name</a>",
+      "Lightning",
+      "2022/11/06",
+	  "Our darling Casanova, Mark Simms, stands accused of the murder of his ex-fiancée Crystal Cross. The evidence is stacked against him and it’s up to the defense to solve the murder before time runs out!"
     ]
   ]
 }
