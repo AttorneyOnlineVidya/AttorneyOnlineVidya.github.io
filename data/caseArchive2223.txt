@@ -17,6 +17,6 @@
       "Normal",
       "2022/09/28",
 	  "It’s a quiet day in a local japanifornian neighbourhood until an internet repairman from Cumcast is found dead at Larry Butzs’ property. Who dunnit?"
-    ],
+    ]
   ]
 }
