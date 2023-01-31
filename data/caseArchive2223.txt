@@ -89,6 +89,120 @@
       "Lightning",
       "2022/11/06",
 	  "Our darling Casanova, Mark Simms, stands accused of the murder of his ex-fiancée Crystal Cross. The evidence is stacked against him and it’s up to the defense to solve the murder before time runs out!"
+    ],
+	[
+      "<a href='The Space Amish Yacht Hit And Run Turnabout' target='_blank'>The Space Amish Yacht Hit And Run Turnabout</a>",
+      "Normal",
+      "2022/02/10",
+	  "Tragedy strikes on the Amish space station Paradise, as someone is found dead, appearing to have been killed by the Amish Minister himself! But is there something more to this simple* case?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/19ntSXWRNYRzONjVAUv_cyAVibN_yTiGuilGi-hdkjcE/edit#' target='_blank'>Turnabout Cookie Theft</a>",
+      "Normal",
+      "2022/01/20",
+	  "A tale of cookies and otakus eternally retold, theft leading to assault as the victim is found in her own kitchen knocked out and taped by her right hand to the counter and the defendant caught mid-escape. Was he the true cookie thief and the one who put the victim in a coma or is there something off with this cookie?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1VlTeRoZG5TSLRztSI_jKm8MoH74qvW0UQBOABgSRps0/edit' target='_blank'>A Scaley Turnabout</a>",
+      "Normal",
+      "2022/02/11",
+	  "A conspiracy theorist saves the world from the lizardpeople threat by shooting one dead in the streets! Alternatively, crazed maniac guns down innocent lizard enthusiast in the night. Will the defence unravel the conspiracy that this case may or may not be?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1fstprnFaLsCgmSyQcGnYZ5bx1YWzOFK8iu0LILCKWf4/edit#' target='_blank'>Turnabout Knight and Terrorist</a>",
+      "Normal",
+      "2022/04/07",
+	  "A knight murders a terrorist to save his mayor’s life."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/16LWjMymUaExo-VGRU4IDyI40aDTYFxufkKh_GVXboKQ/edit#' target='_blank'>Turnabout REstaurant [Rebooted]</a>",
+      "Normal",
+      "2022/05/27",
+	  "Maya Fey needs money because Nick doesn’t give her enough, so she murders a lawyer and takes his entire wallet."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1v1uTlWG9WnRO7OMF7ZWMMXJ-GKdw39bDrk14xVxKJEw/edit#' target='_blank'>Turnabout NIGGERS</a>",
+      "Normal",
+      "2022/08/20",
+	  "Local schizo “Patchy the pirate” murders beloved community leader Conway Stern in his latest episode. The result: a headless man, and a dead dog!?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Rr1a57g3YoMC6dxv0VeiRnVFKcSWly3zBE4Yxm6sel4/edit#' target='_blank'>Turnabout Perfectionist’s Fall</a>",
+      "Normal",
+      "2022/08/20",
+	  "Is it really possible for just one kid to carry a body up and down the stairs, then string it up on a tree to make it look like a suicide?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1VYQNzV58nXKrPMrShlRZXGJhsHvWSoQqd1rU7uVxVGQ/edit#' target='_blank'>Turnabout Magical Didney Orgy</a>",
+      "Normal",
+      "2022/08/27",
+	  "A group of gay yellow wizards organized an orgy at Didney Worl and are having a great time.<br />When an old gay wizard finds out he wasn't invited and even umiliated by them, he shows up anyway and shocks them to death."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1WvJU9A3dUbV6CQuclxowJi87dcbybNC4U8jnCk7LLJY/edit#' target='_blank'>Turnabout System Snatcher</a>",
+      "Normal",
+      "2022/08/23",
+	  "The world has been shaken up after the arrest of the Sergeant Major of the Army for high treason, and it seems a human-like AI - well, a legal human, as it stands - is to take his place."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1lf7dotHJpak86QP5pUsCGpYUa3ZGSmdUoNhtqmPf-f4/edit#' target='_blank'>God Save the Turnabout</a>",
+      "Normal",
+      "2022/10/14",
+	  "The royal jester is fed up of being bullied and insulted by the royal court, so he murders the Japanifornian king."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/10mRTMNHZZBy6rDOwsRJhiD-5qLGawds8bFJ27Cs_lYs/edit#' target='_blank'>Turnabout From the Depths</a>",
+      "Normal",
+      "2022/10/17",
+	  "On the coast of Japanifornia, in a small fishing village on a foggy night, a boat washes up on shore with a body of a fisherman inside. The body wasn’t alone however, another fisherman was found within as well, sound asleep clutching the murder weapon in his hands."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1wrtp9dLcPxukYwU8CZh7KeW4xbybRdDOAUTp0GEoAP8/edit#' target='_blank'>An Ice Turnabout with Cookies and Cream</a>",
+      "Normal",
+      "2022/10/18",
+	  "Death by cone fuck this summary"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1qgZqp-r5DMM3x8_weJeoyRCqd64ep1rCiNgoaaFTrNA/edit' target='_blank'>Turnabout Pumpkin Panic</a>",
+      "Normal",
+      "2022/10/15",
+	  "During a festival in the town of Pumpkintown, the granddaughter of the old man Jenkins is victim of an urban legend, a curse that befell on every farmer in the town long ago."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1Nd_YwVdVsavRITPYRathO40CMTdEyOYPRTs8_MsyVZE/edit' target='_blank'>Turnabout Love Burns Brightly</a>",
+      "Normal",
+      "2022/11/06",
+	  "On today’s episode of AOV, the fire department receives a call about a fire at the courthouse. They managed to arrive right in time to save two people - but three more were murdered!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1YCKUAuMTAUQQvlT_oCJwHPVjIJ_G7CzLkPqLDQjgxEY/edit' target='_blank'>The Rocking Turnabout</a>",
+      "Normal",
+      "2022/11/08",
+	  "It is the day of the famous rock band “The Gavinners” biggest concert. But tragedy strikes as one of the props fall, And electrocutes the lead vocalist. After a thorough investigation all fingers point at a fellow member of the band."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1NqcqXRNhT2NzY0nR7lLiFosh-_9O9SRi1tAufodK4hE/edit' target='_blank'>Turnabout CON Carne</a>",
+      "Normal",
+      "2022/11/25",
+	  "Nu-Japanifornia City Animecon: A place of great and wicked evil, where the sinners of the earth leave their dens of sin and wander the earth anew, clad in the accoutrements of darkness.<br />It is here a life was taken from this earth, an innocent woman walked into the den of evil, and the demons took her."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1G7_p_O0tt1Mo30T8OsrQjaplSqosuWHROQlqQGp-_fY/edit#' target='_blank'>Turnabout Phoenix Fucks</a>",
+      "Jury",
+      "2022/11/10",
+	  "It’s been a few months since the legendary Defense Attorney Phoenix Wright was disbarred, And last night it seems like he has gotten his revenge. Also a guilty verdict in this case means immediate death."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1UlMKyN2MPHqQmGVAOJXB6jbtgfyyUYKSjiol7RnysMU/edit' target='_blank'>Turnabout Melodic End</a>",
+      "Normal",
+      "2022/11/11",
+	  "A famous idol finds herself in the local town, but sadly a threat on her life leads to a gruesome scene. Prepared and ready with a body double, it proves true when her double meets their end on stage by a sabotaged stage light."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1vG5MyGVDdhcKvRHZaUKonJ8st5vV4vSd7RYFbZyJopo/edit#' target='_blank'>Turnabout Lunar Wheeled</a>",
+      "Normal",
+      "2022/11/28",
+	  "Space Station G.A.S,a location used to allow many travels to rest and recover. This location has been sullied today via the murder of the station’s restraunt owner after a reported robbery."
     ]
   ]
 }
