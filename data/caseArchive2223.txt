@@ -3,7 +3,7 @@
 	[
       "<a href='https://docs.google.com/document/d/1tkKPTzRPinvhOIgENn5lO7_sSmbzuUOiBSL4UhNNh6w/edit#' target='_blank'>Turnabout Viola</a>",
       "Normal",
-      "2022/07/14",
+      "2022/09/25",
 	  "Herlock Sholmes is broke, but desperately wants his viola back. He’d do anything to get it back… even murder."
     ],
 	[
@@ -15,8 +15,26 @@
 	[
       "<a href='https://docs.google.com/document/d/1PLAEuWEYiNUqePaly_DKv-QrAXzNEZ2YbvdyBQjrJV4/edit#' target='_blank'>Turnabout Internet or Death</a>",
       "Normal",
-      "2022/09/28",
+      "2022/10/02",
 	  "It’s a quiet day in a local japanifornian neighbourhood until an internet repairman from Cumcast is found dead at Larry Butzs’ property. Who dunnit?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/14IEY7uoqpXYzSkhvK_BebTlXOI-EG61p_6_mz_rE5LQ/edit#' target='_blank'>Turnabout Transphobia</a>",
+      "Normal",
+      "2022/05/20",
+	  "A trans woman is attacked and nearly killed due to transphobia. Can the defense prove it wasn’t Mr. Shields, or is his fate sealed?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1bhLisY0ujd2fzVsXGGRdDTkQnvQUY8xD3MNg0Zs7iXc/edit#' target='_blank'>Turnabout Case Ambition</a>",
+      "Normal",
+      "2022/09/29",
+	  "Two highly competitive prosecutors are always trying to outdo each other in terms of number of cases solved. One of them is eventually promoted to Chief Prosecutor for her efforts, which causes the other to explode in rage, leading to murder."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/12EjsbsgvsP7D-f0JUVBAOebe7Tve_YMsk2jNmzlH_T0/edit#' target='_blank'>Turnabout Twin Obliterator</a>",
+      "Normal",
+      "2022/09/08",
+	  "A woman is furious at her twin sister for using her likeness without consent, so she obliterates her with a laser grill."
     ]
   ]
 }
