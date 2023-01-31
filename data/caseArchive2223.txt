@@ -1,0 +1,22 @@
+{
+  "data": [
+	[
+      "<a href='https://docs.google.com/document/d/1tkKPTzRPinvhOIgENn5lO7_sSmbzuUOiBSL4UhNNh6w/edit#' target='_blank'>Turnabout Viola</a>",
+      "Normal",
+      "2022/07/14",
+	  "Herlock Sholmes is broke, but desperately wants his viola back. He’d do anything to get it back… even murder."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1EMmyupZDhl16VfCrVN8_qrn2v6JRzCGjsLx75Ve3fjs/edit#' target='_blank'>Turnabout Shipping</a>",
+      "Normal",
+      "2022/09/27",
+	  "Deep within the confines of the Cummer naval museum, a most dastardly deed has been committed. The owner of the museum, John Cummer, has been found dead. The suspect being his own head of security!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1PLAEuWEYiNUqePaly_DKv-QrAXzNEZ2YbvdyBQjrJV4/edit#' target='_blank'>Turnabout Internet or Death</a>",
+      "Normal",
+      "2022/09/28",
+	  "It’s a quiet day in a local japanifornian neighbourhood until an internet repairman from Cumcast is found dead at Larry Butzs’ property. Who dunnit?"
+    ],
+  ]
+}

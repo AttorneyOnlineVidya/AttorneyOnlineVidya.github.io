@@ -281,6 +281,9 @@
 
             <!-- TABLE UPDATER LINKS -->
             <h2 class="text-center">
+                <!-- 2022/23 -->
+                <button id="2223" type="button" class="btn btn-primary btn-lg">2022/23</button>
+
                 <!-- 2020/21 -->
                 <button id="2021" type="button" class="btn btn-primary btn-lg">2020/21</button>
 
@@ -299,7 +302,7 @@
                 <strong><b>
                         <h2 id="yearsID">Loading</h2>
                     </b></strong><br />
-                <!-- 2019 DataTables table, data added via script -->
+                <!-- DataTables table, data added via script -->
                 <table id="archive" class="display" style="width:100%">
                     <thead>
                         <tr>
@@ -447,10 +450,21 @@
 
     </script>
 
+    <!-- DataTables Year Initial and Buttons -->
     <script>
         $(document).ready(function () {
-            $('#2021').addClass("btn-outline-primary");
-            document.getElementById("yearsID").innerHTML = "2020/21";
+            $('#2223').addClass("btn-outline-primary");
+            document.getElementById("yearsID").innerHTML = "2022/23";
+        });
+
+        $('#2223').on('click', function () {
+            $('#archive').DataTable().ajax.url('data/caseArchive2021.txt').load();
+            $('#archive').DataTable().ajax.reload();
+
+            document.getElementById("yearsID").innerHTML = "2022/23";
+            $('#2021').removeClass("btn-outline-primary");
+            $('#1819').removeClass("btn-outline-primary");
+            $(this).addClass("btn-outline-primary");
         });
 
         $('#2021').on('click', function () {
@@ -458,6 +472,7 @@
             $('#archive').DataTable().ajax.reload();
 
             document.getElementById("yearsID").innerHTML = "2020/21";
+            $('#2223').removeClass("btn-outline-primary");
             $('#1819').removeClass("btn-outline-primary");
             $(this).addClass("btn-outline-primary");
         });
@@ -467,6 +482,7 @@
             $('#archive').DataTable().ajax.reload();
 
             document.getElementById("yearsID").innerHTML = "2018/19";
+            $('#2223').removeClass("btn-outline-primary");
             $('#2021').removeClass("btn-outline-primary");
             $(this).addClass("btn-outline-primary")
         });
