@@ -406,7 +406,7 @@
         //DataTables init
         $(document).ready(function () {
             var table = $('#archive').DataTable({
-                "ajax": 'data/caseArchive2021.txt'
+                "ajax": 'data/caseArchive2223.txt'
             });
 
             $('#archive tbody').on('click', 'tr', function () {
@@ -458,7 +458,7 @@
         });
 
         $('#2223').on('click', function () {
-            $('#archive').DataTable().ajax.url('data/caseArchive2021.txt').load();
+            $('#archive').DataTable().ajax.url('data/caseArchive2223.txt').load();
             $('#archive').DataTable().ajax.reload();
 
             document.getElementById("yearsID").innerHTML = "2022/23";
