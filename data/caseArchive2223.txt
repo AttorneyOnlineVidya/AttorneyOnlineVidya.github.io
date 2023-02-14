@@ -203,6 +203,60 @@
       "Normal",
       "2022/11/28",
 	  "Space Station G.A.S,a location used to allow many travels to rest and recover. This location has been sullied today via the murder of the station’s restraunt owner after a reported robbery."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1RdC_2dDW6v-S3hPBZtSMGidbw6tOd6TrLd9WeftCCQw/edit' target='_blank'>Turnabout Table for Two</a>",
+      "Normal",
+      "2022/01/03",
+	  "San Fransokyo - city riddled with crime and corruption was shocked with a high profile murder.<br/>One cop apparently decided to take justice into his own hands and invite the mayor for a dinner with a side of lead as a form of a protest. Or did she?<br/>Find out today (or whenever it starts) on Ayy Ohhh Veee!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1zEuC85oMPaDSu6oZoxm1uwtCIo2XS9MtCKBHR8xp-1w/edit' target='_blank'>Turnabout Detailed GUN.</a>",
+      "Normal",
+      "2022/01/05",
+	  "When a low paid corner store employee isn’t treated right, and has their money stolen by their own boss this result is what most expect, but with so many clues unsure the case must be decided by the hands of the defense and prosecution."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/131lvgjsi0t1sVqxNIxX1Kc1_sm7Q45HRlCcFiJGld6M/edit' target='_blank'>Let Me Axe You A Turnabout</a>",
+      "Normal",
+      "2022/01/06",
+	  "Calamity strikes! Apollo’s rectum has been violated mercilessly by a woodcutting axe! The apparent assailant? A cute girl!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1TDAQ8CMEIRmdUnp6kcTLn23wUrM8dtsbNDWuZ8-_DIQ/edit' target='_blank'>Turnabout Tower of Power</a>",
+      "Normal",
+      "2022/01/13",
+	  "Tragedy struck during AOVumble, the local wrestling show, when Payne appeared at the top of a nearby tower for a promotional gig - but moments later on live broadcast, someone shoved him from behind, and he tumbled all the way down!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1uC5cX0siE1k_Hn7ryl2YyQ5IDG3HgUrbnevi3xFdmJI/edit' target='_blank'>The Inventive Turnabout</a>",
+      "Normal",
+      "2022/01/15",
+	  "An airplane, purported to be a long-lost design from the Victorian Era, crashes into a Victorian Faire, resulting in the death of Lauren Paups, the organizer of the event!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1PuH1K6SIwIs0F18aOOlsBI1La_HEQmjWCTcNZth8qMs/edit' target='_blank'>Turnabout Golden Trap</a>",
+      "Normal",
+      "2022/01/16",
+	  "A trapped carton of goldfish kills a security guard who works at a trap making facility and lives in the same apartments as the lead world renown trap maker Kira Trepper."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/17ukEzwb7zAaiKe1a-V852HQYoKq1UJmvKE54tcyEqk0/edit' target='_blank'>Hope for A Turnabout</a>",
+      "Normal",
+      "2022/01/17",
+	  "When the charismatic figurehead of the Dangitstani Rights Movement, Nagito Komaeda, is shot and killed at a rally outside of the local courthouse, the law enforcement is coming under fire.<br/>Did Mike Meekins fire that shot on purpose, or accident?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1a00BPv2z8QAHJr-SQQf8p4F1tCx8CAP43BvElT7B1Zo/edit' target='_blank'>Turnabout Kicking Shot</a>",
+      "Normal",
+      "2022/01/23",
+	  "When a tussle of a mafia and a loan shark gets out of hand to the point multiple guns are used, one is left standing unharmed while the other is left on the ground dead."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1UA4xFFJD9hRa-POlwmAXPiK4QYqelsvVmLVXdw_B0MA/edit' target='_blank'>Turnabout Driller Thriller</a>",
+      "Normal",
+      "2022/01/30",
+	  "During one of the concerts of the infamous metal band BastardCunt from Liverpool, a dead body is discovered!<br/>And the one arrested for it is the lead guitarist of said band, right in the middle of their concert."
     ]
   ]
 }
