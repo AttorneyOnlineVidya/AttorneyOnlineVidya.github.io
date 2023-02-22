@@ -257,6 +257,72 @@
       "Normal",
       "2022/01/30",
 	  "During one of the concerts of the infamous metal band BastardCunt from Liverpool, a dead body is discovered!<br/>And the one arrested for it is the lead guitarist of said band, right in the middle of their concert."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1nQoXLuoPx-qb6CWoKIWLVSGIXm5dze3obUmJgOghTQs/edit' target='_blank'>Turnabout T R A S H</a>",
+      "Normal",
+      "2022/02/03",
+	  "A serene date in a restaurant gone horribly wrong. Did Lauren really kill her husbando?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/19B-5280F_uECLUT7nEvPSrQKLxLljOESjPW-LJ4Zd30/edit' target='_blank'>Turnabout Slashin' Chicken</a>",
+      "Normal",
+      "2022/02/07",
+	  "Rumours have been told that those who order Dragon’s rush from a local chinese place will be cut in two but receive their meal within less than 5 minutes, but at the cost of their life."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/146_QJy1B-j7HkfOaEDJ2mwrslVCXnRs9XVJwiTKuT2E/edit' target='_blank'>Turnabout Airplane</a>",
+      "Normal",
+      "2022/02/15",
+	  "Inferno Cop promised to write a summary here, but never delivered. A mid-flight murder!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1jWBT4fOl6PauTHdeoUs_s_dEDLKVUsW4IOrpo9IK_mw/edit' target='_blank'>Turnabout du Fromage</a>",
+      "Normal",
+      "2022/02/17",
+	  "The Master of Cheeses has been killed! Dee Dee du Fromage, world renowned cheesemaker and experimental gastronomist, has been punctured by her newest creation."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1W5BuFRJvNp5bFvF7e9PGH4BCt8agRU9HdIGOPh41XLM/edit' target='_blank'>Turnabout Bow and Arrow</a>",
+      "Normal",
+      "2022/02/18",
+	  "A young student asked for money from some shady woman in order to pay his tuition fees. She demands her money back, which he does not have, so he shoots her with a bow."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1z4ep1tQjnJZX7K3CBVGVz-abWyBRAVg3_EpVhMmAyUs/edit' target='_blank'>The Joker That Stole Turnabout</a>",
+      "Normal",
+      "2022/02/20",
+	  "The Joker has played one of his classic Christmas Joker Jokes but this time he went too far and the Joke is on him!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1yV60qUtL3VDgaqF6r0Q2V0Vs8jFp5PEmd13CwTF9aco/edit' target='_blank'>Turnabout Spooky Boogie's Return</a>",
+      "Normal",
+      "2022/02/21",
+	  "Wocky has been spreading terrible rumours about Lauren at her school. One day, she met him by chance at an amusement park inside a spooky mansion, where she also works part-time and stabbed him with a candelabra in a crime of passion."
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1FFi12mniKItYNwePPZ-HvzZIsPNg7shdQuceofsE_uQ/edit' target='_blank'>The Drunk Turnabout</a>",
+      "Normal",
+      "2022/02/23",
+	  "After a hard night of partyin’, the bartender is found slumped over the bar… Dead, and in front of him, the drunk form of Penny Nichols, a normally-reserved sorority girl that had a wild night!"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1SidsSqqxtA5UjNvXn5DrTMzrlnotA2LzLbZSwOfPYtE/edit' target='_blank'>Turnabout Mc Lovin' It Remake</a>",
+      "Normal",
+      "2022/02/24",
+	  "On a cold winter day, murder was commited in the hot kitchen of McDonalds. Did the defendant really commit a heinous crime over a patty?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1VRqBlaLDrxqEa90IWz5b3i0Im90Q8gKvu9jbIOp2zh0/edit' target='_blank'>Turnabout Home Run</a>",
+      "Normal",
+      "2022/02/26",
+	  "The infamous baseballer 'Big Buck' Homer Runt has been accused of murder - smashing the victim with his own prized bat! Can the Defense get a home run or will they strike out?"
+    ],
+	[
+      "<a href='https://docs.google.com/document/d/1kkvmAmV9h1a60myAMCmPOFb2sLcrADUWdc9ryRwV5_U/edit' target='_blank'>Turnabout Nothing to Loose Anymore</a>",
+      "Normal",
+      "2022/02/27",
+	  "The year is 2022, and people are beheading their parents. A lone youth, pestered by an overreaching mother. It’d be no surprise to see them snap the way they did. But is that really what happened?"
     ]
   ]
 }
